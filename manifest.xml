@@ -1,0 +1,22 @@
+<package>
+  <description brief="joyToRC">
+
+     joyToRC
+
+  </description>
+  <author>Andrew</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/joyToRC</url>
+  <depend package="roscopter"/>
+  <depend package="joy"/>
+  <depend package="message_generation"/>
+  <depend package="message_runtime"/>
+  <depend package="rospy"/>
+  <depend package="geometry_msgs"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
